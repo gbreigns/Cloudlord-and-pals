@@ -2,8 +2,8 @@
     "stuId": "ALT/SOE/022/3629",
     "name": "Nosike Pascal",
     "track":"Backend Engineer",
-    "circle":"circle 194:,
-    "img": src="/snapchat-1677776002.jpg",
+    "circle":"circle 194",
+    "img":"/snapchat-1677776002.jpg",
 
     "description":{
                 "intro":"Problem solving has always been my drive",
