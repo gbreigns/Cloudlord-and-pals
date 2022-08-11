@@ -1,0 +1,41 @@
+"id":0,
+    "stuId": "ALT/SOE/022/3629",
+    "name": "Nosike Pascal",
+    "track":"Backend Engineer",
+    "circle"circle 194:,
+    <"img src= "/snapchat-1677776002.jpg",>
+
+    "description":{
+                "intro":"Problem solving has always been my drive",
+                "introdetails":"always curious to make the money"
+            },
+
+    "socialmedia":{
+                "github":"https://github.com/gbreigns",
+                "twitter":"https://twitter.com/GbReigns",
+                "portfolio":"https://github.com/gbreigns",
+                "slackHandle":"Gbreigns"
+             },
+
+    "experience":{
+                "first":"BackEnd Engineer Intern @ALTSCHOOL",
+                "second":"Community Manager @SPOTTR",
+            
+             },
+
+    "project":{
+                "first":{
+                    "projectname":"FORBES",
+                    "projectdescription":"A platform that was built on forbes api,it display and give extensive informations on current richest folks in the world",
+                    "projectlink":"https://afrikaforbes.netlify.app/"
+                },
+                "second":{
+                    "projectname":"Box-Monie",
+                    "projectdescription":"A financial platform that allow users to contibute and take turns by creating cohort that contain certain number of user.Still in progress.",
+                    "projectlink":"http://boxmonie.com/"
+                },
+
+              
+             }
+        },
+
